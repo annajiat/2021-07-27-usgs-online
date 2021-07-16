@@ -1,6 +1,7 @@
 [![Build Status](https://travis-ci.com/carpentries/workshop-template.svg?branch=gh-pages)](https://travis-ci.com/carpentries/workshop-template)
 
 [Preview Site](https://annajiat.github.io/2021-07-27-usgs-online/)
+
 [Prep Google Doc](https://docs.google.com/document/d/1CpBO65kgOWSft-9dtA9GH05xBq03kSWIHJqcWlXGZj8/edit#)
 
 # The Carpentries Workshop Template
